@@ -165,11 +165,6 @@
     "name": "TRanimeizle"
   },
   {
-    "domain": "https://beta.animestreamingfr.fr",
-    "type": "anime",
-    "name": "AnimeStreamingFR"
-  },
-  {
     "domain": "https://furyosociety.com/",
     "type": "manga",
     "name": "Furyosociety"
@@ -978,5 +973,15 @@
     "domain": "https://comic-walker.com/",
     "type": "manga",
     "name": "ComicWalker"
+  },
+  {
+    "domain": "https://sanascan.com",
+    "type": "manga",
+    "name": "SanaScans"
+  },
+  {
+    "domain": "https://rezoscan.org",
+    "type": "manga",
+    "name": "RezoScans"
   }
 ]
